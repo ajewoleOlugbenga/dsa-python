@@ -76,3 +76,6 @@ def checking(a, b):
 
 
 print(checking.__doc__)
+
+print(1//2 + 1.0/2)
+
