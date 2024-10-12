@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="295351be-a300-4534-a11c-57765ca33217" name="Changes" comment="DSA python with geeksforgeeks" />
+    <list default="true" id="295351be-a300-4534-a11c-57765ca33217" name="Changes" comment="using division operator">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Dockerfile" />
         <option value="Python Script" />
       </list>
     </option>
@@ -20,12 +23,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ajewoleOlugbenga&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ajewoleOlugbenga/dsa-python.git&quot;,
+    &quot;accountId&quot;: &quot;fa94efc6-070b-4ea7-97a1-a268d7684fd4&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/Scripts/python-variables.py" root0="SKIP_INSPECTION" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2moDMBXQhcQ1bZAvHc7A9CJ8md8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,14 +49,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.arithematic.executor": "Run",
     "Python.arithmetic-operators.executor": "Run",
+    "Python.break-statement.executor": "Run",
+    "Python.continue-statement.executor": "Run",
+    "Python.for-loop.executor": "Run",
+    "Python.nested-loop.executor": "Run",
+    "Python.ptoblem-solving.executor": "Run",
+    "Python.python-comment.executor": "Run",
+    "Python.python-if_else_elif.executor": "Run",
     "Python.python-input.executor": "Run",
+    "Python.python-type.executor": "Run",
+    "Python.python-type_coversion.executor": "Run",
     "Python.python-variables.executor": "Run",
+    "Python.python-while-loop.executor": "Run",
+    "Python.range-function.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Documents\geeksforgeeks\python" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,7 +98,143 @@
       <option name="project" value="LOCAL" />
       <updated>1727738593679</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DSA python with geeksforgeeks">
+      <option name="closed" value="true" />
+      <created>1727738950253</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727738950253</updated>
+    </task>
+    <task id="LOCAL-00003" summary="DSA python with geeksforgeeks">
+      <option name="closed" value="true" />
+      <created>1727739379824</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727739379824</updated>
+    </task>
+    <task id="LOCAL-00004" summary="using type() function in python">
+      <option name="closed" value="true" />
+      <created>1727740002183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727740002183</updated>
+    </task>
+    <task id="LOCAL-00005" summary="implicit and explicit type conversion in python">
+      <option name="closed" value="true" />
+      <created>1727740774861</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727740774861</updated>
+    </task>
+    <task id="LOCAL-00006" summary="python docstring with __doc__">
+      <option name="closed" value="true" />
+      <created>1727742592646</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727742592646</updated>
+    </task>
+    <task id="LOCAL-00007" summary="nested if statement, if_elif">
+      <option name="closed" value="true" />
+      <created>1727742659996</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727742659996</updated>
+    </task>
+    <task id="LOCAL-00008" summary="nested if statement, if_elif">
+      <option name="closed" value="true" />
+      <created>1727922259809</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727922259811</updated>
+    </task>
+    <task id="LOCAL-00009" summary="python while loop">
+      <option name="closed" value="true" />
+      <created>1727923004285</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727923004285</updated>
+    </task>
+    <task id="LOCAL-00010" summary="image where range has start and stop">
+      <option name="closed" value="true" />
+      <created>1727924894478</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727924894478</updated>
+    </task>
+    <task id="LOCAL-00011" summary="range function in all the 3 ways">
+      <option name="closed" value="true" />
+      <created>1727924924180</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727924924180</updated>
+    </task>
+    <task id="LOCAL-00012" summary="using break statement to break out of loops">
+      <option name="closed" value="true" />
+      <created>1727974914503</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727974914503</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Python For loop is used for sequential traversal">
+      <option name="closed" value="true" />
+      <created>1727975046043</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727975046043</updated>
+    </task>
+    <task id="LOCAL-00014" summary="continue statement for loop, to continue without a certain character using if condition">
+      <option name="closed" value="true" />
+      <created>1727976831522</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727976831522</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Image illutration">
+      <option name="closed" value="true" />
+      <created>1727976984745</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727976984745</updated>
+    </task>
+    <task id="LOCAL-00016" summary="outer loop and inner loop using for loop and while loop">
+      <option name="closed" value="true" />
+      <created>1727978054015</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727978054015</updated>
+    </task>
+    <task id="LOCAL-00017" summary="using addition, subtraction, and multiplication operator">
+      <option name="closed" value="true" />
+      <created>1728720513588</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728720513588</updated>
+    </task>
+    <task id="LOCAL-00018" summary="using division operator">
+      <option name="closed" value="true" />
+      <created>1728720652246</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728720652246</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +256,20 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DSA python with geeksforgeeks" />
-    <option name="LAST_COMMIT_MESSAGE" value="DSA python with geeksforgeeks" />
+    <MESSAGE value="using type() function in python" />
+    <MESSAGE value="implicit and explicit type conversion in python" />
+    <MESSAGE value="python docstring with __doc__" />
+    <MESSAGE value="nested if statement, if_elif" />
+    <MESSAGE value="python while loop" />
+    <MESSAGE value="image where range has start and stop" />
+    <MESSAGE value="range function in all the 3 ways" />
+    <MESSAGE value="using break statement to break out of loops" />
+    <MESSAGE value="Python For loop is used for sequential traversal" />
+    <MESSAGE value="continue statement for loop, to continue without a certain character using if condition" />
+    <MESSAGE value="Image illutration" />
+    <MESSAGE value="outer loop and inner loop using for loop and while loop" />
+    <MESSAGE value="using addition, subtraction, and multiplication operator" />
+    <MESSAGE value="using division operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="using division operator" />
   </component>
 </project>
