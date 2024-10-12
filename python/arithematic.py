@@ -27,3 +27,7 @@ print(mod)
 exp = val1**val2
 print(exp)
 
+## using floor divisor //
+floor1 = val1//val2 # it return 0 2//3
+floor2 = val2//val1 # it returns 1 3//2
+print(f"{floor1} and {floor2}")
