@@ -22,3 +22,8 @@ print(div)
 
 mod = val2 % val1
 print(mod)
+
+## using the exponential operator **
+exp = val1**val2
+print(exp)
+
