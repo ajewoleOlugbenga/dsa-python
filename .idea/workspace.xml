@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="295351be-a300-4534-a11c-57765ca33217" name="Changes" comment="commit to github">
-      <change beforePath="$PROJECT_DIR$/python/arithematic.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/arithematic.py" afterDir="false" />
-    </list>
+    <list default="true" id="295351be-a300-4534-a11c-57765ca33217" name="Changes" comment="full commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -308,7 +306,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728721734695</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Floor division : In Python, // is used to conduct the floor division. It is used to find the floor of the quotient when first operand is divided by the second.">
+      <option name="closed" value="true" />
+      <created>1728722125736</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1728722125736</updated>
+    </task>
+    <task id="LOCAL-00029" summary="full commit">
+      <option name="closed" value="true" />
+      <created>1728722156592</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1728722156592</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -350,6 +364,8 @@
     <MESSAGE value="make an asset file for the images" />
     <MESSAGE value="Image illustrations for each script" />
     <MESSAGE value="commit to github" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit to github" />
+    <MESSAGE value="Floor division : In Python, // is used to conduct the floor division. It is used to find the floor of the quotient when first operand is divided by the second." />
+    <MESSAGE value="full commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="full commit" />
   </component>
 </project>
